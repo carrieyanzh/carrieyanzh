@@ -3,11 +3,11 @@ Welcome to my GitHub portfolio dashboard! Below you can find my projects organiz
 
 ## 🌐 Internet of Things (IoT)
 * [Yantech Smart Home](https://github.com) - Smart home system built with JavaScript.
-<! * [All IoT Projects](https://github.com) (Filtered View) -->
+<!-- * [All IoT Projects](https://github.com) (Filtered View) -->
 
 ## ⚛️ ReactJS & Web Development
-<! * [Enterprise Smart ERP](https://github.com) - Enterprise resource planning web application. -->
-<! * [All ReactJS Projects](https://github.com) (Filtered View) -->
+<!-- * [Enterprise Smart ERP](https://github.com) - Enterprise resource planning web application. -->
+<!-- * [All ReactJS Projects](https://github.com) (Filtered View) -->
 
 ## 🤖 AI Agents & Data Analytics
 * [AI Agent Spring Boot & Python](https://github.com) - Backend agent platform.
