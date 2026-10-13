@@ -1,4 +1,4 @@
-# Hi, I'm Carrie Yanzh 👋
+# Hi, I'm Carrie YanTech Lab 👋
 Welcome to my GitHub portfolio dashboard! Below you can find my projects organized neatly by category.
 
 ## 🌐 Internet of Things (IoT)
