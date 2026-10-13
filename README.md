@@ -13,3 +13,6 @@ Welcome to my GitHub portfolio dashboard! Below you can find my projects organiz
 * [AI Agent Spring Boot & Python](https://github.com) - Backend agent platform.
 * [Agent RAG PDF Portfolio](https://github.com) - Document retrieval QA system.
 * [Agent SQL Analytics Portfolio](https://github.com) - Database agent analyst tool.
+
+## ![Selenium](https://shields.io) Selenium
+* https://github.com/carrieyanzh/cyzseleniumjava101 - Selenium Java 101 Certification 
